@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import {AnimatePresence, motion} from 'framer-motion'
+//animate presence use to remove animation with exit 
 
 import NewChallenge from './NewChallenge.jsx';
 
