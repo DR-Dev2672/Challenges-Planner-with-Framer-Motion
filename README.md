@@ -1,8 +1,22 @@
-# React + Vite
+# Challenge Planner App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The **Challenge Planner App** is a dynamic and interactive application designed to help users create, manage, and track challenges. Powered by **React** and **Framer Motion**, the app delivers a smooth and visually appealing user experience with animations and responsive designs.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
+
+- **Challenge Management:** Add, edit, delete, and organize challenges effortlessly.
+- **Interactive Animations:** Smooth transitions and effects powered by Framer Motion.
+- **Progress Tracking:** Visualize your progress in each challenge.
+- **Responsive Design:** Fully functional on desktops, tablets, and mobile devices.
+
+---
+
+## 🚀 Technologies Used
+
+- **React:** Frontend library for building user interfaces.
+- **Framer Motion:** Animation library for React.
+- **CSS/Styled Components:** For styling components.
+- **React Router (Optional):** For seamless navigation between pages.
+
